@@ -3,3 +3,6 @@ texto ediatado en el laboratorio remoto
 =======
 archivo edita en el remoto github
 >>>>>>> 404ae5eba4d85b8d77e3ae12d03382ee095edbea
+
+
+texto editado para prueba git fetch
